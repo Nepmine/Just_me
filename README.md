@@ -7,10 +7,10 @@ Full stack developer
 I've been coding for 5 years. I have participated in multiple webinars and competitions to sharp myself. I am one of the CEO of Hamro-Yetra (Startup in Nepal).
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My-Portfolio](http://#)
+* 🖥️  See my portfolio at [https://nepmine.github.io/Portfolio_SurajG/](http://#)
 * ✉️  You can contact me at [surajghimire13579@gmail.com](mailto:surajghimire13579@gmail.com)
-* 🚀  I'm currently working on [Hamro Yetra](http://#)
-* 🧠  I'm learning Advanced JavaScript
+* 🚀  I'm currently working on [MaHaVi](http://#)
+* 🧠  I'm learning Advanced JavaScript and core CPP
 * ⚡  I have depth knowledge of C programming. I am working on java as well
 
 ### Skills
